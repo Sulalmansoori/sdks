@@ -87,4 +87,45 @@ CLI Tools, IDE & Build Plugins
 
 | Platform                                                                          | Date               |
 | :-------------------------------------------------------------------------------- | ------------------ |
-| [OneSignal Alexa Plugin](https://github.com/OneSignal/OneSignal-Alexa-Nodejs-SDK) | <INSERT DATE HERE> |
+| [OneSignal Alexa Plugin](https://github.com/OneSignal/OneSignal-Alexa-Nodejs-SDK) | <INSERT DATE HERE> |Sure, here are some examples of OneSignal SDKs and plugins available for different platforms and development environments:
+
+* Mobile SDKs:
+	+ OneSignal Android SDK (Google)
+	+ OneSignal Android SDK (Huawei)
+	+ OneSignal Android SDK (FireOS)
+	+ OneSignal iOS SDK
+	+ OneSignal React Native/Expo SDK
+	+ OneSignal Unity SDK
+	+ OneSignal Xamarin SDK
+	+ OneSignal Flutter SDK
+	+ OneSignal Cordova SDK
+* Web SDKs:
+	+ OneSignal Website SDK
+	+ OneSignal React Module
+	+ OneSignal Vue.js 2 Plugin
+	+ OneSignal Vue.js 3 Plugin
+	+ OneSignal Angular Plugin
+	+ OneSignal WordPress Plugin
+* Cross-Platform SDKs:
+	+ OneSignal Unity SDK
+	+ OneSignal Ionic/Capacitor SDK
+	+ OneSignal Xamarin SDK
+	+ OneSignal React Native/Expo SDK
+	+ OneSignal Cordova SDK
+	+ OneSignal Flutter SDK
+	+ OneSignal DotNet SDK
+* Server SDKs:
+	+ OneSignal Node API
+	+ OneSignal Go API
+	+ OneSignal Java API
+	+ OneSignal .NET API
+	+ OneSignal Rust API
+	+ OneSignal Ruby API
+	+ OneSignal CPP API
+	+ OneSignal Python API
+	+ OneSignal PHP API
+* Developer Tools:
+	+ OneSignal Android Studio Plugin
+	+ OneSignal Expo EAS Plugin
+
+These SDKs and plugins allow developers to easily integrate OneSignal's features into their apps, including push notifications, in-app messages, SMS, and emails.
